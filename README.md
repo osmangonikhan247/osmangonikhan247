@@ -1,4 +1,4 @@
-# Hi there, I'm Osman Goni Khan! 👋
+# Hi there, I'm Osman! 👋
 ## 🌟 About Me 
    
 - 🔭 I’m currently study on Computer Science And Engineering.
