@@ -1,6 +1,6 @@
 # Hi there, I'm Osman Goni Khan! 👋
 ## 🌟 About Me 
-<h1 align="center">🍁 Welcome To My Profile 🍁</h1>    
+   
 - 🔭 I’m currently study on Computer Science And Engineering.
 - 🌱 I’m currently learning Web Development skill. 
 - 💬 Ask me about Hardware and Software related computer/Laptop...
