@@ -25,7 +25,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osmangonikhan247&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmangonikhan247&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p> 
-<p align="center" align="left" > <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=osmangonikhan247&" alt="sajjadjim" /> </p>
+<p align="center" align="left" > <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=osmangonikhan247&" alt="osmangonikhan247" /> </p>
  <br>   
 <br>
      
@@ -53,7 +53,7 @@
 <h2 align="left">🖥️⌨️💻 Uses Software & Tools :</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,powershell,pycharm,notion,linux,idea,mysql,figma,xd,gmail,raspberrypi,stackoverflow&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,powershell,pycharm,notion,linux,idea,stackoverflow&perline=6"/>
   </a>
 </p>
  
