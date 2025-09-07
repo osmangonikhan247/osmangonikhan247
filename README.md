@@ -30,7 +30,7 @@
 <br>
      
 ##🚀Skills
-- **Languages:** C , C++ , HTML ,CSS, Javascript, Python ,Java
+- **Languages:** C , C++ , dart ,CSS, Javascript, Python ,Java
 - **Frameworks/Libraries:
 - **Tools:** Visual Studio Code ,Git Bash,Neatbeans Apache,PyCharm Community
 <br>
