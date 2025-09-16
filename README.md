@@ -2,7 +2,7 @@
 ## 🌟 About Me 
    
 - 🔭 I’m currently study on Computer Science And Engineering.
-- 🌱 I’m currently learning Web Development skill. 
+- 🌱 I’m currently learning Flutter App Development skill. 
 - 💬 Ask me about Hardware and Software related computer/Laptop...
 - 📫 How to reach me:
 
